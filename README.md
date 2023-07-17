@@ -47,17 +47,17 @@ It is clear from this those states having higher literacy rate, the number of cr
 
 8. References:
 
-1.     https://ncrb.gov.in/en/crime-in-india-table-addtional-table-and-chapter-contents
-2.	https://www.findeasy.in/indian-states-by-religion/
-3.	https://www.findeasy.in/top-indian-states-by-population/
-4.	https://www.findeasy.in/indian-states-by-literacy-rate
-5.	https://www.findeasy.in/top-indian-states-by-area/
-6.	https://www.mdu.ac.in/UpFiles/UpPdfFiles/2020/Mar/Ch-6.pdf
-7.	https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_crime_rate
-8.	https://ejalshakti.gov.in/JJM/JJMReports/BasicInformation/JJMRep_RWS_RuralPopulation.aspx
-9.	https://data.gov.in/dataset-group-name/Crime%20Statistics
-10.	https://ncrb.gov.in/sites/default/files/CII-2021/CII-2021-Tables.
-11.	https://ncrb.gov.in/en/Crime-in-India-2021
-12.	https://ncrb.gov.in/sites/default/files/CII-2021/CII-AdditionalTables-2022.
-13.	https://en.wikipedia.org/wiki/List_of_Indian_states_and_union_territories_by_literacy_rate
-14.	https://factly.in/about-23-of-all-ipc-cases-are-disposed-of-by-the-police-for-lack-of-evidence/
+1.https://ncrb.gov.in/en/crime-in-india-table-addtional-table-and-chapter-contents
+2.https://www.findeasy.in/indian-states-by-religion/
+3.https://www.findeasy.in/top-indian-states-by-population/
+4.https://www.findeasy.in/indian-states-by-literacy-rate
+5.https://www.findeasy.in/top-indian-states-by-area/
+6.https://www.mdu.ac.in/UpFiles/UpPdfFiles/2020/Mar/Ch-6.pdf
+7.https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_crime_rate
+8.https://ejalshakti.gov.in/JJM/JJMReports/BasicInformation/JJMRep_RWS_RuralPopulation.aspx
+9.https://data.gov.in/dataset-group-name/Crime%20Statistics
+10.https://ncrb.gov.in/sites/default/files/CII-2021/CII-2021-Tables.
+11.https://ncrb.gov.in/en/Crime-in-India-2021
+12.https://ncrb.gov.in/sites/default/files/CII-2021/CII-AdditionalTables-2022.
+13.https://en.wikipedia.org/wiki/List_of_Indian_states_and_union_territories_by_literacy_rate
+14.https://factly.in/about-23-of-all-ipc-cases-are-disposed-of-by-the-police-for-lack-of-evidence/
